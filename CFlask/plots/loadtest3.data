@@ -1,0 +1,52 @@
+Threadpool size = 1
+
+No. of        Throughput 
+concurrent   (Requests/sec)
+clients     
+     
+    1      4690.88 
+    4      7516.66 
+    8      5924.55 
+    12      7444.38 
+    16      6006.58 
+    20      7316.99 
+    24      5907.36 
+    28      6990.97 
+    36      6929.55 
+    40      5830.16 
+
+
+Threadpool size = 2
+
+No. of        Throughput 
+concurrent   (Requests/sec)
+clients     
+     
+    1      3871.55 
+    4      10754.86 
+    8      8226.04 
+    12      10906.16 
+    16      11103.66 
+    20      8455.30 
+    24      10662.47 
+    28      10664.34 
+    36      10520.81 
+    40      7560.26 
+
+
+Threadpool size = 4
+
+No. of        Throughput 
+concurrent   (Requests/sec)
+clients     
+     
+    1      3886.21 
+    4      12461.00 
+    8      12816.50 
+    12      9630.40 
+    16      12723.50 
+    20      13023.71 
+    24      12906.88 
+    28      8940.27 
+    36      12377.04 
+    40      12471.81 
